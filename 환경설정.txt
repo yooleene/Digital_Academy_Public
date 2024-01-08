@@ -1,1 +1,1 @@
-pip install pandas matplotlib seaborn selenium requests bs4 opencv-python pillow openpyxl nltk kiwipiepy textblob wordcloud squarify gensim scikit-learn tqdm afinn py_lex
+pip install pandas matplotlib seaborn selenium requests bs4 opencv-python pillow openpyxl lxml nltk kiwipiepy textblob wordcloud squarify gensim scikit-learn tqdm afinn py_lex xmltodict
