@@ -1,1 +1,8 @@
+1.pip 업그레이드
+py -m pip install --upgrade pip
+
+2.주피터노트북 설치
+pip install jupyter
+
+3.패키지 설치
 pip install pandas matplotlib seaborn selenium requests bs4 opencv-python pillow openpyxl lxml nltk kiwipiepy textblob wordcloud squarify gensim scikit-learn tqdm afinn py_lex xmltodict
